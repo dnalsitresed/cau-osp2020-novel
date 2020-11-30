@@ -2421,7 +2421,6 @@
 둘이 함께한 기억은 언제까지나 톰의 가슴 한구석에 자리하고 있을 것이기 때문이다. 
 톰은 따뜻한 방 안에서 창밖에 내리는 눈을 보며 살며시 웃었다. 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74407946/100603756-e524fb00-3348-11eb-818b-1273ef6dbb3d.jpeg" width="50%" height="50%">
 
 밖으로 향한 창문이 살짝 열려있었다. 톰은 집에서 나간 그때를 기억하며 살며시 창문을 닫아주었다. 
 창문을 닫으며 톰이 말했다.
@@ -2432,4 +2431,7 @@
 절대 그렇게 생각하면서 가출하지 마.
 엄청나게 걱정하며 널 찾을걸?
 ```
+
+<!-- THE END -->
+<p align="center"><img src="https://user-images.githubusercontent.com/74407946/100603756-e524fb00-3348-11eb-818b-1273ef6dbb3d.jpeg" width="50%" height="50%">
 
